@@ -60,3 +60,7 @@ https://1drv.ms/x/c/5C49B25A024CC059/IQC3rH90Ynl0QJMVdWL-DkRFAX2kVzSFOraKx9-pawp
 ## Python Programming(29-09-2026)
 https://drive.google.com/file/d/1cRSSje07idl7v_CJbsdsxLGSfQDAPpA4/view?usp=sharing
 
+# AUTOMATION TESTING
+### AUTOMATION TESTING TASK DAY-1(05-10-2026)
+https://drive.google.com/file/d/1-HwJJNc_1ccCkQfyrFOR3jOEgaL4Og4b/view?usp=sharing
+
