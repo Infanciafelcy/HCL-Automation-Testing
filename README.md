@@ -64,3 +64,5 @@ https://drive.google.com/file/d/1cRSSje07idl7v_CJbsdsxLGSfQDAPpA4/view?usp=shari
 ### AUTOMATION TESTING TASK DAY-1(05-10-2026)
 https://drive.google.com/file/d/1-HwJJNc_1ccCkQfyrFOR3jOEgaL4Og4b/view?usp=sharing
 
+###  AUTOMATION TESTING TASK DAY-1(06-10-2026)
+https://drive.google.com/file/d/1y2mIDcc1-TxHd7lsQTqc0lQyqrO2qsRd/view?usp=sharing
