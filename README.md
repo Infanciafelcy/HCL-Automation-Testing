@@ -64,8 +64,11 @@ https://drive.google.com/file/d/1cRSSje07idl7v_CJbsdsxLGSfQDAPpA4/view?usp=shari
 ### AUTOMATION TESTING TASK DAY-1(05-10-2026)
 https://drive.google.com/file/d/1-HwJJNc_1ccCkQfyrFOR3jOEgaL4Og4b/view?usp=sharing
 
-###  AUTOMATION TESTING TASK DAY-1(06-10-2026) - TASK 1
+###  AUTOMATION TESTING TASK DAY-2(06-10-2026) - TASK 1
 https://drive.google.com/file/d/1y2mIDcc1-TxHd7lsQTqc0lQyqrO2qsRd/view?usp=sharing
 
-###  AUTOMATION TESTING TASK DAY-1(06-10-2026) - TASK 2
+###  AUTOMATION TESTING TASK DAY-2(06-10-2026) - TASK 2
 https://drive.google.com/file/d/1W32cdvUfA7L_nasJUCXqTGJE8ex_NcF5/view?usp=sharing
+
+### AUTOMATION TESTING TASK DAY-3(07-10-2026) 
+https://drive.google.com/file/d/1dhqGMiQKQ7qSEwtpqEfT9com7uYpMvsk/view?usp=sharing
